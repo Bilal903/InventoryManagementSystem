@@ -1,0 +1,1 @@
+moduleSearchIndex = [{"l":"com.example.inventory_manage_application"}];updateSearchResults();
